@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetStarted</string>
+    <string name="get_started">Get Started</string>
+    <string name="text" translatable="false">Listen to the best\nmusic everyday\nwith <font color='GREEN'>Hearme</font> now!</string>
+    <string name="signup" translatable="false">don t have an account <font color='GREEN'> sign up</font></string>
+
+</resources>
